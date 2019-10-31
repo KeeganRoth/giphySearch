@@ -1,3 +1,21 @@
 body {
   font-family: sans-serif;
+  background-color: darkgreen;
+}
+main {
+  text-align: center;
+}
+h2 {
+  box-shadow: 0 0 15px #fff;
+  background-color: #fff;
+  margin: 8px;
+}
+ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+li {
+  list-style-type: none;
+  border: 2px solid #bada55;
+  background-color: rgb(121, 134, 75);
 }
