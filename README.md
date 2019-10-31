@@ -1,2 +1,0 @@
-# giphySearch
-Created with CodeSandbox
